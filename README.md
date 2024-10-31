@@ -3,7 +3,7 @@
 
 ### About the dataset
 
-This dataset was sourced from the Kaggle repository, accessible via the following link: 
+This dataset from Sakar et al., 2018 was sourced from the Kaggle repository, accessible via the following link: 
 https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features
 
 
@@ -15,12 +15,6 @@ To extract clinically useful information for PD assessment, various speech signa
 were applied to the speech recordings of PD patients. These algorithms include Time-Frequency Features, 
 Mel Frequency Cepstral Coefficients (MFCCs), Wavelet Transform-based Features, 
 Vocal Fold Features, and Time-Warped Quadratic Time-Frequency (TWQT) Features.
-
-
-If you use this dataset, please cite: Sakar, C.O., Serbes, G., Gunduz, A., Tunc, H.C., Nizam, H., Sakar, B.E., 
-Tutuncu, M., Aydin, T., Isenkul, M.E. and Apaydin, H., 2018. A comparative analysis of speech signal processing 
-algorithms for Parkinson's disease classification and the use of the tunable 
-Q-factor wavelet transform. Applied Soft Computing, DOI: [Web Link] https://doi.org/10.1016/j.asoc.2018.10.022
 
 
 ### PD Classification
@@ -38,3 +32,12 @@ Main files in this repository include:
 
 The ultimate goal of this project is to develop a robust model for classifying individuals based on their speech 
 features, contributing to the understanding and assessment of Parkinson's Disease.
+
+
+### References
+
+
+Sakar, C.O., Serbes, G., Gunduz, A., Tunc, H.C., Nizam, H., Sakar, B.E., 
+Tutuncu, M., Aydin, T., Isenkul, M.E. and Apaydin, H., 2018. A comparative analysis of speech signal processing 
+algorithms for Parkinson's disease classification and the use of the tunable 
+Q-factor wavelet transform. Applied Soft Computing, DOI: [Web Link] https://doi.org/10.1016/j.asoc.2018.10.022
