@@ -11,8 +11,8 @@ The data comprises recordings from 188 patients diagnosed with PD (107 men and 8
 women) alongside a control group of 64 individuals (23 men and 41 women). Each participant contributed 
 three voice recordings, resulting in a total of 754 extracted features.
 
-To extract clinically useful information for PD assessment, various speech signal processing algorithms 
-were applied to the speech recordings of PD patients. These algorithms include Time-Frequency Features, 
+Various speech signal processing algorithms were applied to the speech recordings to extract c
+linically useful information for PD assessment. These algorithms include Time-Frequency Features, 
 Mel Frequency Cepstral Coefficients (MFCCs), Wavelet Transform-based Features, 
 Vocal Fold Features, and Time-Warped Quadratic Time-Frequency (TWQT) Features.
 
