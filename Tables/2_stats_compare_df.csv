@@ -1,0 +1,6 @@
+Variable,Test,Statistic,P-value,Adjusted p-value (Bonferroni),Adjusted p-value (FDR)
+DFA,T-Test,-5.3843,0.0,0.0001,0.0
+RPDE,T-Test,-4.3936,0.0,0.0124,0.0001
+numPulses,Mann-Whitney U,8231.0,0.0,0.0082,0.0001
+numPeriodsPulses,Mann-Whitney U,8240.0,0.0,0.0076,0.0001
+meanPeriodPulses,Mann-Whitney U,3908.0,0.0,0.0215,0.0001
